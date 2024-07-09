@@ -3,6 +3,8 @@
 
 **Overview** - In the rapidly evolving field of data science, understanding the trends and patterns in salaries is crucial for professionals and organizations alike.  This dataset aims to shed light on the landscape of Data Science Salaries from 2020 to 2024.  By analyzing salary data over this period, data enthusiasts, researchers, and industry professionals can gain valuable insights into salary trends, regional variations, and potential factors incluending compensentation within the data science community.
 
+**Process** - To review the code, select "7 Branches" in GitHub. Choose one of the branches, and open Data Science Salaries.ipynb file in a source code editor that supports Jupyter Notebook. I recommend using Google Colab. Each cell has code that displays an output below the individual cell. Use the play button outside the top left corner of each cell to run each cell. You can also click inside the cell and press Shift + Enter to run the cell and move down to the next cell. The output of each cell displays what the comment requests and uses the Pandas Library of the Python coding language.
+
 **Dataset Structure** - The dataset "data_science_salaries" covering the period 2020 to 2024 includes the following columns:
 - Job Title: Data Engineer, Data Scientist, Data Mgmt. Specialist, etc.
 - Experience: Exective-level, Mid-level, Senior-level and Entry-level
